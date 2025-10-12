@@ -9,19 +9,11 @@
 
 ![git](https://github.com/user-attachments/assets/0bbe1d88-a83c-4ad2-8a7f-3066c862067a)
 
-<p align="center">
-  <img src="https://github.com/Wallens11/Wallens11/blob/output/snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
+![DevOps](https://img.shields.io/badge/DevOps-%23FF6B6B.svg?style=for-the-badge&logo=devdotto&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-%23326ce5.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)</b>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wallens11&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallens11&layout=compact&theme=dark)
-
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wallens11&theme=github_dark)](https://github.com/Wallens11) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallens11&layout=compact&theme=dark)
 
 </div>
