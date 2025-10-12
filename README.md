@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  
+# Hi, I'm E4SY-06
 
-<!--
-**E4SY-06/E4SY-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&lines=We+code,+we+connect,+we+conquer🛡️" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![git](https://github.com/user-attachments/assets/0bbe1d88-a83c-4ad2-8a7f-3066c862067a)
+
+<p align="center">
+  <img src="https://github.com/Wallens11/Wallens11/blob/output/snake.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
+
+![](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)</b>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wallens11&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallens11&layout=compact&theme=dark)
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wallens11&theme=github_dark)](https://github.com/Wallens11) 
+
+</div>
