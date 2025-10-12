@@ -16,7 +16,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ![DevOps](https://img.shields.io/badge/DevOps-%23FF6B6B.svg?style=for-the-badge&logo=devdotto&logoColor=white)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-%23326ce5.svg?style=for-the-badge&logo=terraform&logoColor=white)
