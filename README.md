@@ -20,6 +20,6 @@
 ![DevOps](https://img.shields.io/badge/DevOps-%23FF6B6B.svg?style=for-the-badge&logo=devdotto&logoColor=white)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-%23326ce5.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallens11&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E4SY-06&layout=compact&theme=dark)
 
 </div>
