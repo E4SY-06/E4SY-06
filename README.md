@@ -18,6 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E4SY-06&layout=compact&theme=dark)
 
-<img src="https://raw.githubusercontent.com/E4SY-06/E4SY-06/output/snake.svg" alt="Snake animation" />
-
 </div>
