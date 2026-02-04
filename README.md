@@ -15,10 +15,4 @@
 ![DevOps](https://img.shields.io/badge/DevOps-%23FF6B6B.svg?style=for-the-badge&logo=devdotto&logoColor=white)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-%23326ce5.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=E4SY-06&theme=radical)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=E4SY-06&theme=dark&hide_border=false)<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=E4SY-06&theme=radical)
-
 </div>
